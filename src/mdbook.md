@@ -1,6 +1,6 @@
 # mdbook
 
-mdbook是rust官方出品的类gitbook项目，它可以从 Markdown 文件创建书籍，且使用 Rust 实现
+[mdbook](https://rust-lang.github.io/mdBook/index.html)是rust官方出品的类gitbook项目，它可以从 Markdown 文件创建书籍，且使用 Rust 实现
 
 ## mdbook的安装与使用
 
