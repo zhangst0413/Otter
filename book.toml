@@ -3,3 +3,6 @@ title = "Otter"
 authors = ["zhangst0413"]
 description = "Otter 是一个 AI 演示与练习网站"
 language = "zh"
+
+[output.html]
+git-repository-url = "https://github.com/zhangst0413/Otter"

@@ -9,6 +9,7 @@ on:
       - 'README.md'
       - '.gitignore'
       - 'book/**'     # book/ 已在 .gitignore 中，此处为防御性忽略
+      - 'code-src/**' # 代码
 
 # 连推多次时取消排队中的旧任务，避免 gh-pages 被交错写入
 concurrency:
