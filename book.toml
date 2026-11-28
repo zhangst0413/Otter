@@ -1,4 +1,5 @@
 [book]
 title = "Otter"
 authors = ["zhangst0413"]
+description = "Otter 是一个 AI 演示与练习网站"
 language = "zh"
